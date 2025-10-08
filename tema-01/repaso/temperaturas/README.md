@@ -1,6 +1,7 @@
 ## Procesamiento de temperaturas (en una lista)
 
-Ingresar un conjunto de temperaturas en una lista, finalizar la carga cuando se reciba un 50. Sólo aceptar temperaturas entre -20 y 49 grados.
+Ingresar un conjunto de temperaturas en una lista, finalizar la carga cuando se reciba un 50. 
+Sólo aceptar temperaturas entre -20 y 49 grados.
 
 Calcular y mostrar:
 
