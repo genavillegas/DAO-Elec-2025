@@ -1,7 +1,9 @@
-from saludos import saludar
+#importar todo lo que hay en saludos.py
+from saludos import *
 
+#importar solo la función saludar
+#from saludos import saludar
 
-# Ejecutar la función solo si este archivo es el programa principal
-if __name__ == "__main__":
-    saludar()
-    saludar("Alice")
+#llamar a la función saludar
+saludar()
+

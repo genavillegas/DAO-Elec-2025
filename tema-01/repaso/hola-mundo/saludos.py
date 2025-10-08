@@ -1,5 +1,5 @@
-def saludar(nombre=None):
-    if nombre:
-        print(f"¡Hola, {nombre}!")
-    else:
-        print("¡Hola mundo!")
+def saludar():
+    print("Hola mundo! desde la función saludar()")
+
+#para probar solo este archivo
+# saludar()
