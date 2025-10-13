@@ -31,6 +31,7 @@ def calc_prom_temp_dias_calidos(lista, temp_calida=20):
 def buscar_temp_mayor_a(lista,temp_param=40):
     #Si/No dia>40
     cuarentas =[]
+    dia_mayor_cuarenta = False
     mensaje = "Sin temperaturas a validar"
     for temp in lista:
         if temp > temp_param:
